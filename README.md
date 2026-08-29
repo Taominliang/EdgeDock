@@ -22,7 +22,7 @@
 
 ## 运行方法
 ```
-直接运行EdgeDock.exe
+已经打包好了直接点击EdgeDock.exe就可以运行
 
 ```
 
