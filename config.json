@@ -1,0 +1,65 @@
+{
+  "dock_position": "right",
+  "hidden_width": 6,
+  "show_delay_ms": 150,
+  "hide_delay_ms": 450,
+  "columns": 4,
+  "padding": 10,
+  "spacing": 8,
+  "dock_width": 280,
+  "dock_height": 500,
+  "bg_color": "#1e1e2e",
+  "bg_image": "",
+  "hidden_color": "#3a3a4a",
+  "text_color": "#ffffff",
+  "text_size": 8,
+  "show_text": true,
+  "hover_color": "#4a4a6a",
+  "corner_radius": 20,
+  "corner_mode": "region",
+  "acrylic": false,
+  "icon_size": 0,
+  "icon_margin": 10,
+  "icon_corner": true,
+  "click_blank_shrink": true,
+  "topmost": true,
+  "alpha": 0.85,
+  "autostart": false,
+  "start_hidden": true,
+  "apps": [
+    {
+      "name": "文件资源管理器",
+      "path": "explorer.exe"
+    },
+    {
+      "name": "记事本",
+      "path": "notepad.exe"
+    },
+    {
+      "name": "计算器",
+      "path": "calc.exe"
+    },
+    {
+      "name": "画图",
+      "path": "mspaint.exe"
+    },
+    {
+      "name": "命令提示符",
+      "path": "cmd.exe"
+    },
+    {
+      "name": "PowerShell",
+      "path": "powershell.exe"
+    },
+    {
+      "name": "任务管理器",
+      "path": "taskmgr.exe"
+    },
+    {
+      "name": "系统设置",
+      "path": "ms-settings:"
+    }
+  ],
+  "monitor": "0",
+  "theme": "auto"
+}
